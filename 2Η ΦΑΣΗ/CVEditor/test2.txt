@@ -1,0 +1,35 @@
+1. GENERAL INFORMATION
+Name: test2
+Address: 5654
+Telephone: (Home) 656564 (Mobile) 6654646
+Email: sdfdsfdfs
+
+2. PROFESSIONAL PROFILE
+java developer
+
+3. SKILLS AND EXPERIENCE
+
+	3.1 SKILLS AND EXPERIENCE ON java
+		java
+	3.2 SKILLS AND EXPERIENCE ON c++
+		c++
+			test
+			design
+	3.3 SKILLS AND EXPERIENCE ON C
+		C
+
+4. CAREER SUMMARY
+	Company1, 2012-01-01
+	Company2, 2015-01-01
+
+5. EDUCATION AND TRAINNING
+	dsad
+
+6. FURTHER COURSES
+	assad
+
+7. ADDITIONAL INFORMATION
+	asdasd
+
+8. INTERESTS
+	asdsad

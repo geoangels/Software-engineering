@@ -1,0 +1,37 @@
+1. GENERAL INFORMATION
+Name: testCombined
+Address: Ioaninnon 121
+Telephone: (Home) 212255 (Mobile) 6985454555
+Email: adsa@gmoil.com
+
+2. PROFESSIONAL PROFILE
+Java specialist with 3 years experience
+
+3. SKILLS AND EXPERIENCE
+
+	3.1 SKILLS AND EXPERIENCE ON Java
+		Java
+	3.2 SKILLS AND EXPERIENCE ON Android
+		Android
+
+4. PROFFESSIONAL EXPERIENCE
+
+	CompanyA, 2015-01-01
+		CompanyA
+	CompanyB, 2016-01-01
+		CompanyB
+
+5. EDUCATION AND TRAINNING
+	Ptyhion-University of Ioannina, 2015-01-01
+
+6. FURTHER COURSES
+	Course A, 2015-01-01
+	Course B, 2016-01-01
+
+7. ADDITIONAL INFORMATION
+	Info 1
+	Info 2
+
+8. INTERESTS
+	Football
+	Basketball
